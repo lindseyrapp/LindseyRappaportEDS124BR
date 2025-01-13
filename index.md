@@ -4,7 +4,6 @@ layout: default
 ---
 
 # Welcome to My Public Portfolio
-## EDS124BR - Lindsey Rappaport
 
 This portfolio showcases my work in EDS124BR, including videos explaining my programs and projects. 
 
