@@ -2,4 +2,4 @@
 ## Videos:
 ### Week 1:
 Show What You Know: Explain Your Program: 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/XyqCvVsHpzc" frameborder="0" allowfullscreen></iframe>  
+[![Watch the video](https://img.youtube.com/vi/XyqCvVsHpzc/0.jpg)](https://www.youtube.com/watch?v=XyqCvVsHpzc)  
