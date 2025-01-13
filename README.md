@@ -2,4 +2,4 @@
 ## Videos:
 ### Week 1:
 Show What You Know: Explain Your Program: 
-[Watch Week 1 Video](https://github.com/lindseyrapp/LindseyRappaportEDS124BR/blob/main/Week1vid.mov)  
+<iframe width="600" height="400" src="https://www.youtube.com/embed/XyqCvVsHpzc" frameborder="0" allowfullscreen></iframe>  
