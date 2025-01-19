@@ -22,3 +22,10 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
   
 [![Watch the video](https://img.youtube.com/vi/Q1taTavi4Dw/0.jpg)](https://www.youtube.com/watch?v=Q1taTavi4Dw)  
 
+
+### Week 3: Show What You Know (Code Explanation) - Lesson Plan
+**Explain Your Program Video for "Grasshopper, Kangaroo, and Bee"**
+  
+[![Watch the video](https://img.youtube.com/vi/FYUUBGSjF2k/maxresdefault.jpg)](https://www.youtube.com/watch?v=FYUUBGSjF2k)  
+
+
