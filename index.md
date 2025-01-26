@@ -29,3 +29,13 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/FYUUBGSjF2k/hqdefault.jpg)](https://www.youtube.com/watch?v=FYUUBGSjF2k)  
 
 
+### Week 4: Show What You Know (Code Explanation) - Nested Repeats  
+**Explain Your Program Video for "Mouse Drawing Octagon"**
+  
+[![Watch the video](https://img.youtube.com/vi/fANu7-qLvDs/hqdefault.jpg)](https://www.youtube.com/watch?v=fANu7-qLvDs)  
+
+
+
+
+
+
