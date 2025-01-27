@@ -35,6 +35,12 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/fANu7-qLvDs/hqdefault.jpg)](https://www.youtube.com/watch?v=fANu7-qLvDs)  
 
 
+### Week 5: Show What You Know (Code Explanation) - Events   
+**Explain Your Program Video for "Monkey Catching Bananas"**  
+  
+[![Watch the video](https://img.youtube.com/vi/Cf0u_xyU_Ok/hqdefault.jpg)](https://www.youtube.com/watch?v=Cf0u_xyU_Ok)  
+
+
 
 
 
