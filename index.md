@@ -23,25 +23,25 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/Q1taTavi4Dw/0.jpg)](https://www.youtube.com/watch?v=Q1taTavi4Dw)  
 
 
-### Week 3: Show What You Know (Code Explanation) - Lesson Plan
+### Week 2: Show What You Know (Code Explanation) - Lesson Plan
 **Explain Your Program Video for "Grasshopper, Kangaroo, and Bee"**
   
 [![Watch the video](https://img.youtube.com/vi/FYUUBGSjF2k/hqdefault.jpg)](https://www.youtube.com/watch?v=FYUUBGSjF2k)  
 
 
-### Week 4: Show What You Know (Code Explanation) - Nested Repeats  
+### Week 3: Show What You Know (Code Explanation) - Nested Repeats  
 **Explain Your Program Video for "Mouse Drawing Octagon"**
   
 [![Watch the video](https://img.youtube.com/vi/fANu7-qLvDs/hqdefault.jpg)](https://www.youtube.com/watch?v=fANu7-qLvDs)  
 
 
-### Week 4: Show What You Know (Code Explanation) - Events   
+### Week 3: Show What You Know (Code Explanation) - Events   
 **Explain Your Program Video for "Monkey Catching Bananas"**  
   
 [![Watch the video](https://img.youtube.com/vi/Cf0u_xyU_Ok/hqdefault.jpg)](https://www.youtube.com/watch?v=Cf0u_xyU_Ok)  
 
 
-### Week 5: Show What You Know (Code Explanation) - Variables   
+### Week 4: Show What You Know (Code Explanation) - Variables   
 **Explain Your Program Video for "Triangle, Square, Pentagon"**  
   
 [![Watch the video](https://img.youtube.com/vi/8hJtXfkKtXk/hqdefault.jpg)](https://www.youtube.com/watch?v=8hJtXfkKtXk)  
