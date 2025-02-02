@@ -41,6 +41,14 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/Cf0u_xyU_Ok/hqdefault.jpg)](https://www.youtube.com/watch?v=Cf0u_xyU_Ok)  
 
 
+### Week 5: Show What You Know (Code Explanation) - Variables   
+**Explain Your Program Video for "Triangle, Square, Pentagon"**  
+  
+[![Watch the video](https://img.youtube.com/vi/8hJtXfkKtXk/hqdefault.jpg)](https://www.youtube.com/watch?v=8hJtXfkKtXk)  
+
+
+
+
 
 
 
