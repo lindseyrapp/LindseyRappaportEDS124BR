@@ -47,6 +47,12 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/8hJtXfkKtXk/hqdefault.jpg)](https://www.youtube.com/watch?v=8hJtXfkKtXk)  
 
 
+### Week 5: Show What You Know (Code Explanation) - Conditional Loops   
+**Explain Your Program Video for "Try to Click the Soccer Ball"**  
+  
+[![Watch the video](https://img.youtube.com/vi/3WoGtqM1CG8/hqdefault.jpg)](https://youtu.be/3WoGtqM1CG8)  
+
+
 
 
 
