@@ -53,6 +53,12 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/3WoGtqM1CG8/hqdefault.jpg)](https://youtu.be/3WoGtqM1CG8)  
 
 
+### Week 6: Show What You Know (Code Explanation) - If Else   
+**Explain Your Program Video for "Bullseye Ball Game"**  
+  
+[![Watch the video](https://img.youtube.com/vi/JzR8rX-wunA/hqdefault.jpg)](https://www.youtube.com/watch?v=JzR8rX-wunA)  
+
+
 
 
 
