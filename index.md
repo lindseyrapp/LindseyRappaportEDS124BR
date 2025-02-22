@@ -59,6 +59,12 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/JzR8rX-wunA/hqdefault.jpg)](https://www.youtube.com/watch?v=JzR8rX-wunA)  
 
 
+### Week 7: Show What You Know (Code Explanation) - Nested If Else   
+**Explain Your Program Video for "Norman the Penguin"**  
+  
+[![Watch the video](https://img.youtube.com/vi/_PPA4zOQt70/hqdefault.jpg)](https://www.youtube.com/watch?v=_PPA4zOQt70)  
+
+
 
 
 
