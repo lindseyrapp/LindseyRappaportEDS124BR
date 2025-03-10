@@ -68,7 +68,14 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 ### Week 8: Show What You Know (Code Explanation) - Compound Conditionals   
 **Explain Your Program Video for "Buried Treasure"**  
   
-[![Watch the video](https://img.youtube.com/vi/oNVBuiMYRqM/hqdefault.jpg)](https://www.youtube.com/watch?v=oNVBuiMYRqM) 
+[![Watch the video](https://img.youtube.com/vi/oNVBuiMYRqM/hqdefault.jpg)](https://www.youtube.com/watch?v=oNVBuiMYRqM)  
+
+
+### Week 9: Show What You Know (Code Explanation) - Abstraction   
+**Explain Your Program Video for "Paint a Picture"**  
+  
+[![Watch the video](https://img.youtube.com/vi/RRPt8dvk4ds/hqdefault.jpg)](https://youtu.be/RRPt8dvk4ds)  
+
 
 
 
