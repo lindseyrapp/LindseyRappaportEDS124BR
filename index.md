@@ -77,6 +77,12 @@ This portfolio showcases my work in EDS124BR, including videos explaining my pro
 [![Watch the video](https://img.youtube.com/vi/RRPt8dvk4ds/hqdefault.jpg)](https://youtu.be/RRPt8dvk4ds)  
 
 
+### Week 10: Show What You Know (Code Explanation) - Lists   
+**Explain Your Program Video for "Countries Beginning with Inputted Letter"**  
+  
+[![Watch the video](https://img.youtube.com/vi/f-B7gIXKAAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=f-B7gIXKAAQ)  
+
+
 
 
 
